@@ -1,14 +1,17 @@
 ## 👋 Hi there
 
-This is A1ca7raz!
-
-### Development Environment
-
-[![OS0](https://shields.io/badge/OS0-NixOS%20Unstable-%235277C3?style=for-the-badge&logo=NixOS&logoColor=%23fff)](https://github.com/A1ca7raz/flamework)
-![OS1](https://shields.io/badge/OS1-%20%20Windows%2010%20Atlas%20OS%203.0%20%20-%230078D4?style=for-the-badge&logo=windows&logoColor=%23fff)
-
-[![Browser](https://shields.io/badge/Browser-Firefox-%23FF7139?style=for-the-badge&logo=firefox&logoColor=%23fff)](https://github.com/A1ca7raz/flamework/tree/main/modules/desktop/apps/_networking/firefox)
-[![Editor](https://shields.io/badge/EDITOR-VsCodium-%232F80ED?style=for-the-badge&logo=vscodium&logoColor=%23fff)](https://github.com/A1ca7raz/flamework/tree/main/modules/desktop/apps/_editors/vscodium)
+<p align="center">
+  <b>This is A1ca7raz!</b>
+</p>
+<p align="center">
+  <a href="https://github.com/A1ca7raz/flamework"><img src="https://shields.io/badge/NixOS%20Unstable-5277C3?style=for-the-badge&logo=NixOS&logoColor=fff" /></a>
+  <img src="https://shields.io/badge/Windows%2010%20Atlas%20OS-0078D4?style=for-the-badge&logo=windows&logoColor=fff" />
+</p>
+<p align="center">
+  <a href="https://github.com/A1ca7raz/flamework/tree/main/modules/programs/desktop/editors/vscodium/"><img src="https://shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff" /></a>
+  <a href="https://github.com/A1ca7raz/flamework/tree/main/modules/programs/desktop/networking/firefox"><img src="https://shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=fff" /></a>
+  <a href="https://github.com/A1ca7raz/flamework/tree/main/modules/programs/shell/fish"><img src="https://shields.io/badge/Fish-34C534?style=for-the-badge&logo=fishshell&logoColor=fff" /></a>
+</p>
 
 ### Weekly Code Stats
 
