@@ -15,9 +15,9 @@
 
 ### Weekly Code Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=A1ca7raz&hide_border=true&layout=compact&theme=flag-india&langs_count=6">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=A1ca7raz&hide_border=true&layout=compact&theme=buefy&langs_count=6">
 
 ### Github Stats
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=A1ca7raz&theme=transparent&show_icons=true&hide_border=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ca7raz&theme=shadow_blue&layout=donut&hide_border=true">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=A1ca7raz&theme=buefy&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1ca7raz&theme=buefy&layout=donut&hide_border=true">
