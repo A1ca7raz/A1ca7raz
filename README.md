@@ -13,10 +13,6 @@
   <a href="https://github.com/A1ca7raz/flamework/tree/main/modules/programs/shell/fish"><img src="https://shields.io/badge/Fish-34C534?style=for-the-badge&logo=fishshell&logoColor=fff"/></a>
 </p>
 
-### Weekly Code Stats
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=A1ca7raz&hide_border=true&layout=compact&theme=buefy&langs_count=6">
-
 ### Github Stats
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=A1ca7raz&theme=buefy&show_icons=true&hide_border=true">
