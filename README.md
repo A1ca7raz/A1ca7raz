@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/A1ca7raz/flamework"><img src="https://shields.io/badge/NixOS%20Unstable-5277C3?style=for-the-badge&logo=NixOS&logoColor=fff"/></a>
-  <img src="https://shields.io/badge/Windows%2010%20Atlas%20OS-0078D4?style=for-the-badge&logo=windows&logoColor=fff" />
+  <img src="https://shields.io/badge/Windows%2010%2022H2-0078D4?style=for-the-badge&logo=windows&logoColor=fff" />
 </p>
 <p align="center">
   <a href="https://github.com/A1ca7raz/flamework/tree/main/modules/programs/desktop/editors/vscodium/"><img src="https://shields.io/badge/vscodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff"/></a>
